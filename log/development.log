@@ -1,0 +1,136 @@
+Started GET "/" for ::1 at 2019-01-13 13:23:30 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/railties-5.0.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/railties-5.0.0.1/lib/rails/templates/rails/welcome/index.html.erb (43.0ms)
+Completed 200 OK in 451ms (Views: 246.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:33:22 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/railties-5.0.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/railties-5.0.0.1/lib/rails/templates/rails/welcome/index.html.erb (14.0ms)
+Completed 200 OK in 232ms (Views: 123.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:36:00 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/railties-5.0.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/railties-5.0.0.1/lib/rails/templates/rails/welcome/index.html.erb (8.0ms)
+Completed 200 OK in 174ms (Views: 95.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:37:39 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (0.5ms)
+Completed 200 OK in 152ms (Views: 115.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:44:50 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (1.0ms)
+Completed 200 OK in 167ms (Views: 123.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:45:03 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (1.0ms)
+Completed 200 OK in 176ms (Views: 139.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:46:04 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (1.5ms)
+Completed 200 OK in 180ms (Views: 130.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:46:42 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (1.0ms)
+Completed 200 OK in 154ms (Views: 119.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:46:56 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (3.0ms)
+Completed 200 OK in 168ms (Views: 123.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:47:20 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (1.0ms)
+Completed 200 OK in 164ms (Views: 129.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:47:23 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (1.0ms)
+Completed 200 OK in 169ms (Views: 126.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:47:27 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (1.0ms)
+Completed 200 OK in 173ms (Views: 135.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:47:29 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (1.0ms)
+Completed 200 OK in 163ms (Views: 125.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:50:41 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (34.5ms)
+Completed 200 OK in 392ms (Views: 283.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:51:24 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (1.0ms)
+Completed 200 OK in 158ms (Views: 116.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:51:26 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (0.5ms)
+Completed 200 OK in 165ms (Views: 125.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-13 13:51:30 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (0.5ms)
+Completed 200 OK in 166ms (Views: 129.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-01-15 16:01:30 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (31.2ms)
+Completed 200 OK in 328ms (Views: 248.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-01-15 16:03:09 +0545
+Processing by HelloController#index as HTML
+  Rendering hello/index.html.erb
+  Rendered hello/index.html.erb (0.0ms)
+Completed 200 OK in 109ms (Views: 70.4ms | ActiveRecord: 0.0ms)
+
+
